@@ -1,32 +1,11 @@
 # Octopus-Repo
-_Team Octopus's repository !!!_
+Team Octopus's repository !!!
 
-Example pictures of damp moody conditions
+## Ideas for the project: 
+- Website in a leaflet style 
+- giving information about the house styles and prices etc. 
+- including an interactive map using potentially storymaps
+- could maybe use 360 style photos or videos. 
 
-Interview with student ?  
-
-Report on gentrification - Jesmond house prices rising due to students from wealthy backgrounds moving into the city ?
-Does this actually apply to Jesmond because its a wealthy area anyway ? Is this down to students ? - use articles and other research methods such as questionnaires to find this out 
-
-
-360s photos - memento 360 
-Story maps - website builder and you can add maps to it 
-
-Division of Labour , Assessed on collaboration 
-contractual situations
-students evictions 
-Eviction etc - making that visible 
-
-Create a problem statement - what are we going to address, not solve ,  put sentence in middle of the mindmap
-
-Readings we could use ? Academic literature ? - delegate this, get sources from Nick and Alex 
-
-What data exists already - who would be collecting this data 
-
-SU offer housing support, contract review services 
-
-Find examples, can be used as inspiration 
-
-Start with council data - Dylan ? 
-
-By next week have the task question and divided research 
+### Tools
+- storymaps.arcgis.com - will need a university account, email and ask for an account for everyone
