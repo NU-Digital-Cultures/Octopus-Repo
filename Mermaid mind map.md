@@ -1,3 +1,4 @@
+``` mermaid
 mindmap
   root((lack of accesable information  to students directly instead of landlords/ estate agents.))
     Gentrification
@@ -25,4 +26,4 @@ mindmap
       VS
       storymaps.arcgis.com
       momento 360
-
+```
