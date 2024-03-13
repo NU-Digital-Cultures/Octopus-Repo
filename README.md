@@ -1,5 +1,6 @@
 # Octopus-Repo
 Team Octopus's repository !!!
+Main starter ideas and general notes for the project.
 
 ## Ideas for the project: 
 - Website in a leaflet style 
@@ -7,5 +8,7 @@ Team Octopus's repository !!!
 - including an interactive map using potentially storymaps
 - could maybe use 360 style photos or videos. 
 
-### Tools
+### Tools:
 - storymaps.arcgis.com - will need a university account, email and ask for an account for everyone
+- momento 360
+- mermaid to create mindmaps or flow charts of data
