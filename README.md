@@ -12,3 +12,4 @@ Main starter ideas and general notes for the project.
 - storymaps.arcgis.com - will need a university account, email and ask for an account for everyone
 - momento 360
 - mermaid to create mindmaps or flow charts of data
+- [story maps.arcgis website](https://storymaps.arcgis.com/)
