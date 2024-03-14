@@ -5,7 +5,7 @@
 - 'the use of students to gentrify areas by exploting the fact that they need housing close to student areas'
 
 ## Literature and readings: 
-
+[Sage Journal Lit paper on Gentrification and urban regeneration](https://journals.sagepub.com/doi/10.1080/0042098032000136110)
 
 
 ## Gentrification in Newcastle:
