@@ -9,4 +9,6 @@
 
 
 ## Gentrification in Newcastle:
-[Article about gentrification](https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/)
+[Article about Gentrification](https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/)
+"The rise in property values and rents in these areas has led to concerns about affordability and the displacement of long-term residents. The impact of gentrification on housing affordability is a contentious issue, as it can make it difficult for low-income individuals and families to remain in their neighborhoods." 
+The ability of landlords and estate agents to raise rent prices as they know students will need a place to live, causing a whole area to go up in price. 
