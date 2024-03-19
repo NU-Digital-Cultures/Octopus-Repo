@@ -30,3 +30,31 @@ Find examples, can be used as inspiration
 Start with council data - Dylan ? 
 
 By next week have the task question and divided research 
+
+Data sources notes
+
+Data scraping - go to a website asking for data and data scraping pulls all the data 
+
+RJS- You could create an app that collects data (arc collector) 
+
+Census is probably the most useful - should be useful for postcode level 
+
+CURDS 
+
+https://nusu.co.uk/news/article/home-truths
+
+https://www.bricksandlogic.co.uk/our-data
+
+https://ukdataservice.ac.uk/learning-hub/data-skills-modules/
+
+Gentrification huge academic field 
+
+Data to build a tool - data visualisation around student areas of the city 
+
+Average from Newcastle students vs Usual residents 
+
+Look at fees and loan data - do loans qualify for income/rent 
+
+Average rent for different student areas 
+
+Jesmond, Sandyford, Heaton, Gosforth
