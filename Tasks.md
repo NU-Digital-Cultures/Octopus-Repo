@@ -5,3 +5,6 @@
 - Maria - 360 video or videos of a house.
 - Sam - researching data on house pricing and the market increase.
 - Tom - email to get data and any data from the internet. 
+
+## Presentation !
+- we need to start creating our presentation. Powerpoint ? Google slides ? 
