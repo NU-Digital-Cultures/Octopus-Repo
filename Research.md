@@ -15,9 +15,13 @@
 - momento 360
 - mermaid to create mindmaps or flow charts of data
 - [story maps.arcgis website](https://storymaps.arcgis.com/)
+- arc collector 
+- the census - for data collection. 
+- data can be created in excel or build it in VSC saved as a .csv 
 
 ## Literature and readings: 
 [Sage Journal Lit paper on Gentrification and urban regeneration](https://journals.sagepub.com/doi/10.1080/0042098032000136110)
+
 
 
 ## Gentrification in Newcastle:
