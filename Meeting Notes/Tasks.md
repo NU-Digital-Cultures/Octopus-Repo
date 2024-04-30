@@ -7,4 +7,3 @@
 - Tom - email to get data and any data from the internet. 
 
 ## Presentation !
-- we need to start creating our presentation. Powerpoint ? Google slides ? 
