@@ -1,7 +1,7 @@
 # Meeting Notes 
 #  Meeting Notes 
 
-Project Launch and Planning 
+## Meeting 1 Project Launch and Planning 
 
 Objective: Define project objectives, outline roles, and establish the project timeline. Agenda: 
 
