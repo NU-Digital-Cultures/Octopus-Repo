@@ -1,0 +1,14 @@
+# Gentrification 
+
+Newcastle Upon-Tyne has been transformed through gentrification, whilst improving the area and attracted more young professionals and developers, gentrification has created rent prices to rise significantly. 
+
+With Newcastle being a heavily student area, this has led to developers and estate agents using gentrification to rise rent prices to almost unaffordable levels, using the need for housing 
+
+The transformation of affordable housing into upscale developments reduces the availability of affordable options, pushing low-income individuals and families out of the city center and into less desirable areas with fewer resources and opportunities. As well as the influx of wealthier residents can exacerbate economic inequality, widening the gap between affluent newcomers and existing residents who may struggle to afford the rising costs of living. “The rise in property values and rents in these areas has led to concerns about affordability and the displacement of long-term residents. The impact of gentrification on housing affordability is a contentious issue, as it can make it difficult for low-income individuals and families to remain in their neighborhoods.”  
+Found at: [Gentrification And Urban development in Newcastle]( https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/#:~:text=One%20of%20the%20most%20visible,modern%20and%20upscale%20living%20spaces )
+
+
+- "The rise in property values and rents in these areas has led to concerns about affordability and the displacement of long-term residents. The impact of gentrification on housing affordability is a contentious issue, as it can make it difficult for low-income individuals and families to remain in their neighborhoods." Found at: [Article about Gentrification](https://newcastle.ltd/the-gentrification-and-urban-development-of-newcastle-upon-tyne/)
+
+- Positive aspects of gentrification in Newcastle include revitalization of neighborhoods, improved infrastructure, and increased economic investment. Areas such as the Quayside, Ouseburn Valley and Jesmond have seen extensive redevelopment, with trendy bars, restaurants, and cultural venues attracting visitors and stimulating local economies. Additionally, gentrification can lead to increased property values, benefiting homeowners and attracting further investment in the area.​
+- However, gentrification also brings challenges, particularly for low-income residents who may be priced out of their neighborhoods due to rising rents and property taxes. Displacement can result in the loss of community cohesion and cultural identity as long-term residents are forced to relocate to more affordable areas. Furthermore, gentrification may exacerbate social inequalities, as affluent newcomers may not fully integrate with existing communities, leading to tensions and resentment. 
