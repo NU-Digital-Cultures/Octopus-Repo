@@ -11,4 +11,3 @@
 <img src="/Images/Static Map 2.png">
 
 <img src="/Images/Static Map 3.png">
-
