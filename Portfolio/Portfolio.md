@@ -14,4 +14,13 @@ The various timelines acts as a checklist / step-by-step guide for students on h
 
 # Here is the link to our Website:
 
+### How the prototype was developed to address issues raised by the brief:
+
+### Outline the challenges that our group faced and our work to overcome them:
+
+### a critical reflection on the context of our project:
+
+### A reflection that anticipate what would need to be addressed if our output were to be rolled out into the ‘real-world':
+
+
 [Homes To Newcastle Website](https://arcg.is/1mvjHf0) 
