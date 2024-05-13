@@ -21,7 +21,7 @@ The brief exposed three main problems to our group; landlords are charging too h
 
 ### Outline the challenges that our group faced and our work to overcome them:
 
-### a critical reflection on the context of our project:
+### A critical reflection on the context of our project:
 
 The context of our project was to "accurately demonstrate who are bad actors in 
  the housing market while empowering tenants to demand safe, stable and good 
